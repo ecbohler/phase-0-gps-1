@@ -8,7 +8,7 @@ clear - clear
  git clone https://github.com/ecbohler/phase-0-gps-1.git - cloned repo that was made through Github
  ls - listing the files and directories within working directory
  cd phase-0-gps-1/
- touch awesome_page.md
+ touch awesome_page.md - Add a new file to the directory
  ls
  git add awesome_page.md
  git commit
