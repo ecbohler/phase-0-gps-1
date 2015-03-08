@@ -41,3 +41,5 @@ clear - clear
  subl . - opens sublime text editor
 
  history - list the commands entered in this terminal session
+
+
